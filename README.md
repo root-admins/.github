@@ -6,3 +6,22 @@
 The Foundations of Decay and Decoy.
  
 -------------------------------
+
+
+The way how it's work
+
+<p>This automatic page fetching including contains directory, files, folder, sub folder, settings or configuration files from "/" is the easiest way to fetch origin for all of you have or some projects. Author or Owner from you have page or content was here synced. After your page is alredy, you can early fast check out the new branch:</p>
+
+
+
+<pre><code>$ cd you_have/your_name
+$ fetch origin
+$ checkout
+</code></pre>
+
+also 
+
+<pre><code>$ cd your_repo_root/repo_name
+$ git fetch origin
+$ git checkout
+</code></pre>
